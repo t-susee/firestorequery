@@ -102,7 +102,7 @@
 // 3.	Show all national teams (Remember there might be new national teams added later)
 
 // db.collection("teams")
-//   .where("country", "==", "Not Applicable")
+//   .where("city", "==", "Not Applicable")
 //   .get()
 //   .then((data) => {
 //     let mydocs = data.docs;
